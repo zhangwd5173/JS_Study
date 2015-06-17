@@ -4,7 +4,13 @@
     margin: 0px auto;
 }
 .login_head{
-    padding-left: 45%;
+    padding-left: 20%;
     padding-top: 10%;
     font-size: 30px;
+}
+.login_button{
+    padding-left: 10%;
+    padding-top: 10%;
+    font-size: 30px;
+
 }
