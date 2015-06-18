@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="548c366f-1c3f-4c41-8dfb-1370cb72a6e2" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/1-启动页_MarkMan.png" afterPath="$PROJECT_DIR$/public/1-启动页_MarkMan.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/animate.css" afterPath="$PROJECT_DIR$/public/animate.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/centerHome.html" afterPath="$PROJECT_DIR$/public/centerHome.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/demo.html" afterPath="$PROJECT_DIR$/public/demo.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/frontcss.css" afterPath="$PROJECT_DIR$/public/frontcss.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/1.jpg" afterPath="$PROJECT_DIR$/public/img/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/1.large.jpg" afterPath="$PROJECT_DIR$/public/img/1.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/10.jpg" afterPath="$PROJECT_DIR$/public/img/10.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/10.large.jpg" afterPath="$PROJECT_DIR$/public/img/10.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/11.jpg" afterPath="$PROJECT_DIR$/public/img/11.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/11.large.jpg" afterPath="$PROJECT_DIR$/public/img/11.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/12.jpg" afterPath="$PROJECT_DIR$/public/img/12.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/12.large.jpg" afterPath="$PROJECT_DIR$/public/img/12.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/13.jpg" afterPath="$PROJECT_DIR$/public/img/13.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/13.large.jpg" afterPath="$PROJECT_DIR$/public/img/13.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/14.jpg" afterPath="$PROJECT_DIR$/public/img/14.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/14.large.jpg" afterPath="$PROJECT_DIR$/public/img/14.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/15.jpg" afterPath="$PROJECT_DIR$/public/img/15.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/15.large.jpg" afterPath="$PROJECT_DIR$/public/img/15.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/16.jpg" afterPath="$PROJECT_DIR$/public/img/16.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/16.large.jpg" afterPath="$PROJECT_DIR$/public/img/16.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/17.jpg" afterPath="$PROJECT_DIR$/public/img/17.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/17.large.jpg" afterPath="$PROJECT_DIR$/public/img/17.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/2.jpg" afterPath="$PROJECT_DIR$/public/img/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/2.large.jpg" afterPath="$PROJECT_DIR$/public/img/2.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/3.jpg" afterPath="$PROJECT_DIR$/public/img/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/3.large.jpg" afterPath="$PROJECT_DIR$/public/img/3.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/4.jpg" afterPath="$PROJECT_DIR$/public/img/4.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/4.large.jpg" afterPath="$PROJECT_DIR$/public/img/4.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/5.jpg" afterPath="$PROJECT_DIR$/public/img/5.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/5.large.jpg" afterPath="$PROJECT_DIR$/public/img/5.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/6.jpg" afterPath="$PROJECT_DIR$/public/img/6.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/6.large.jpg" afterPath="$PROJECT_DIR$/public/img/6.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/7.jpg" afterPath="$PROJECT_DIR$/public/img/7.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/7.large.jpg" afterPath="$PROJECT_DIR$/public/img/7.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/8.jpg" afterPath="$PROJECT_DIR$/public/img/8.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/8.large.jpg" afterPath="$PROJECT_DIR$/public/img/8.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/9.jpg" afterPath="$PROJECT_DIR$/public/img/9.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/img/9.large.jpg" afterPath="$PROJECT_DIR$/public/img/9.large.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/views/weixin/zepto.min.js" afterPath="$PROJECT_DIR$/public/zepto.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/demo.html" afterPath="$PROJECT_DIR$/public/demo.html" />
     </list>
     <ignored path="JS_Study.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,8 +37,8 @@
       <file leaf-file-name="demo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/demo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34213686">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.19807923">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -172,6 +132,7 @@
         <option value="$PROJECT_DIR$/app/views/weixin/frontcss.css" />
         <option value="$PROJECT_DIR$/app/views/weixin/centerHome.html" />
         <option value="$PROJECT_DIR$/app/views/weixin/menu1.html" />
+        <option value="$PROJECT_DIR$/public/demo.html" />
       </list>
     </option>
   </component>
@@ -584,12 +545,12 @@
       <workItem from="1434595789682" duration="1358000" />
       <workItem from="1434614144886" duration="442000" />
       <workItem from="1434618619224" duration="1002000" />
-      <workItem from="1434621595783" duration="129000" />
+      <workItem from="1434621595783" duration="272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7696000" />
+    <option name="totallyTimeSpent" value="7839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="336" y="27" width="1584" height="954" extended-state="0" />
@@ -845,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34213686">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.19807923">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
