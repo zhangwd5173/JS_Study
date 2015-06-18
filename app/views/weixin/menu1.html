@@ -7,9 +7,6 @@
         <link href="frontcss.css" type="text/css" rel="stylesheet">
     <style type="text/css"></style>
 
-    <!--<%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>-->
-    <!--<%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>-->
-    <!--<%= csrf_meta_tags %>-->
     <style type="text/css">
 
           body {
@@ -64,26 +61,34 @@
         }
     </style>
 </head>
+<body>
+    <script>
+        function buttonHome(){
+
+        }
+    </script>
 <div class="container">
 
-      <form class="form-signin">
+    <form class="form-signin">
         <h2 class="form-signin-heading">那刻</h2>
         <label for="inputEmail" class="sr-only">用户名：</label>
         <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
-          <br/>
-          <label for="inputPassword" class="sr-only"> 密码：</label>
+        <br/>
+        <label for="inputPassword" class="sr-only"> 密码：</label>
         <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
         <div class="checkbox">
-          <label>
-            <input type="checkbox" value="remember-me"> 记住登录
-          </label>
+            <label>
+                <input type="checkbox" value="remember-me"> 记住登录
+            </label>
         </div>
-          <div class="buttonRL">
-              <button class="btnsubmit" type="submit"><a href="http://www.nokee.com" >登录</a></button>
-              <button class="btnregistered" type="button">注册</button>
+        <div class="buttonRL">
+            <button class="btnsubmit" type="submit"><a  href="demo.htm">登录</a></button>
+            <button class="btnregistered" type="button"><a href="http://www.nokee.com">注册</a></button>
 
-          </div>
-      </form>
+        </div>
+    </form>
 
-    </div>
+</div>
+
+</body>
 </html>
