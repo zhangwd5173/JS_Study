@@ -28,22 +28,30 @@
 .list-menu{
     border-top:1px solid #C1D6E6;
     padding-bottom:14px;
-    font-size:12px;}
+    font-size:12px;
+    padding-left: 0px;
+}
 .list-menu li{
     display:block;
     border:1px solid #C1D6E6;
     border-top:none;
-    background:#fff;}
+    background:#fff;
+}
 .list-menu li a{
     display:block;
     position:relative;
     padding:30px;
     color:#154364;
     font-weight:bold;
-    padding-left:15px;
+    padding-left:100px;
     padding-right:15px;
     text-decoration: none;
 
+}
+.m-icon{
+    position:absolute;
+    left:14px;
+    top:15px;
 }
 .list-menu li a b{
     /*background:url(../img/arrow-ts.png) no-repeat right;*/

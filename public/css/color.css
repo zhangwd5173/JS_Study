@@ -1,8 +1,13 @@
-﻿header, button, .button, #slider-swiper {
-	background-color: #BB2222;
-}
-.st-menu .selected {
-	border-color: #BB2222;
+﻿header, button, .button, #slider-swiper {
+
+	background-color: #20d3ff;
+
+}
+
+.st-menu .selected {
+
+	border-color: #BB2222;
+
 }
 a:link, a:visited {
 	color: #BB2222;
