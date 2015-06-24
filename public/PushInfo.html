@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>即时消息</title>
+    <style>
+        *{
+            margin: 0px;
+        }
+        .nav{
+            font-size: 30px;
+            padding-top: 10px;
+            text-align: center;
+            width: 100%;
+            height: 50px;
+            background: cyan;
+        }
+        .photo{
+            text-align: center;
+            padding-top: 10px;
+        }
+        .recording{
+            padding-top: 40px;
+            padding-left: 100px;
+        }
+        .textView{
+            padding-top: 100px;
+            padding-left: 50px;
+            width: 200px;
+            height: 40px;
+
+        }
+        .sending{
+            text-align: center;
+            padding-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav">
+        即时消息
+    </div>
+    <div class="photo">
+        <input type="file" capture="camera" accept="image/*" id="cameraInput" name="cameraInput" >
+        <img src="centerImg.png">
+        <!--<a href="http://www.baidu.com"><img src="centerImg.png" width="200px" height="200px" alt="htmllogon"></a>-->
+    </div>
+    <div class="recording">
+        <a>录音<br></a>
+        <input type="button" style="width: 200px;height: 100px;" value="录音">
+    </div>
+    <div class="textView">
+        <input type="text" style="height: 40px;width: 400px;">
+    </div>
+    <div class="sending">
+        <input type="button" value="发送" style="height: 100px;width: 200px">
+    </div>
+
+</body>
+</html>

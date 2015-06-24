@@ -48,6 +48,8 @@
 	var wImage = $('#large_img');
 	var domImage = wImage[0];
 
+//	<input type="file" capture="camera" accept="image/*" id="cameraInput" name="cameraInput">
+
 	var loadImg = function(id,callback){
 		$('#container').css({height:zWin.height(),'overflow':'hidden'})
 		$('#large_container').css({
@@ -73,7 +75,6 @@
 			}else{	
 				 wImage.attr('src',imgsrc).css('width',winWidth).css('padding-top',realh);
 			}
-			
 			callback&&callback();
 		}
 		ImageObj.src = imgsrc;
