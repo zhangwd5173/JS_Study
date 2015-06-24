@@ -37,12 +37,34 @@
     </style>
 </head>
 <body>
-    <div class="nav">
-        即时消息
-    </div>
+    <!--<div class="nav">-->
+    <!--</div>-->
     <div class="photo">
-        <input type="file" capture="camera" accept="image/*" id="cameraInput" name="cameraInput" >
-        <img src="centerImg.png">
+        <!--<input type="file" capture="camera" accept="image/*" id="cameraInput" name="cameraInput" >-->
+        <script>
+            window.onload=function() {
+                document.getElementById('file').onchange = function (evt) {
+                    // 如果浏览器不支持FileReader，则不处理
+                    if (!window.FileReader) return;
+                    var files = evt.target.files;
+                    for (var i = 0, f; f = files[i]; i++) {
+                        if (!f.type.match('image.*')) {
+                            continue;
+                        }
+                        var reader = new FileReader();
+                        reader.onload = (function (theFile) {
+                            return function (e) {
+                                // img 元
+                                document.getElementById('previewImage').src = e.target.result;
+                            };
+                        })(f);
+                        reader.readAsDataURL(f);
+                    }
+                }
+            }
+        </script>
+        <input type="file" name="" id="file" /><img id="previewImage" style="height:200px;width:200px;" />
+        <!--<img src="centerImg.png">-->
         <!--<a href="http://www.baidu.com"><img src="centerImg.png" width="200px" height="200px" alt="htmllogon"></a>-->
     </div>
     <div class="recording">
@@ -55,6 +77,5 @@
     <div class="sending">
         <input type="button" value="发送" style="height: 100px;width: 200px">
     </div>
-
 </body>
 </html>
