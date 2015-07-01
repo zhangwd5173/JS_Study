@@ -49,18 +49,23 @@
 <div class="imgtest">
     <figure>
         <div>
-            <img id="previewImage" />
+            <img id="previewImage" onclick="onclickB()"/>
         </div>
     </figure>
 </div>
 <div class="selectIcon">
     <input type="file"  id="file" />
+    <script>
+        function onclickB() {
+            alert("呵呵呵呵");
+        };
+    </script>
 </div>
 <div style="text-align: center;padding-top: 40px">
     <input type="text" style="height: 40px;width:80%;">
 </div>
 <div style="text-align: center;font-size: 30px;padding-top: 40px">
-    <input type="button" style="text-align: center;height: 100px;width: 100px" value="修改密码">
+    <input type="button" style="height: 100px;width: 100px" value="修改密码">
 </div>
 <script>
     window.onload=function() {
